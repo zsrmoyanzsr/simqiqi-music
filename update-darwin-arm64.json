@@ -1,0 +1,24 @@
+{
+  "version": "0.3.4",
+  "notes": "- **顶栏会说在唱什么**：正在播放的卡片多了一行，唱到哪句就显示哪句；右边添了一颗心，一键喜欢当前歌曲，不必再打开播放页\n- **顶栏的小灯**：加载时轻轻呼吸，一分钟内出过错就亮起琥珀色，点一下说清是哪里出了问题\n- **更新提示**：有新版本时头像旁亮一个圆点，点开就是更新窗口\n- **反馈与帮助**：设置里新增一组入口，报告问题、提建议都走同一处，自动附上系统信息与最近几次错误（地址与账号已打码）；同一组里还有「连接自检」，一次看清登录、接口、试听与内容源\n- **点歌更可靠**：「我喜欢的音乐」里网络抖动时不再悄悄跳到下一首，而是停在原地提醒你再点一次\n- **分享更好看**：歌词卡片改用专辑封面铺底、渐变压暗；听歌周报可以导出成一整张海报\n- **正在播放页的标签行**：歌词 / 律动那一行换成液态玻璃，并支持按住横向拖动切换\n- 修了一处配色计算的整数除法错误，渐变的色相不再跑偏",
+  "date": "2026-11-05T12:21:08Z",
+  "url": "https://gh-proxy.com/https://github.com/Simqiqi/simqiqi-music/releases/download/v0.3.4/echo-cloudmusic-0.3.4-darwin-arm64.tar.gz",
+  "size": 8753515,
+  "signature": "McrGHDqQqBXbfFeuKimM7ZVfNMTNEMIUbxhW18Lf/3CSydVM3bWEK81sgDCCyWtgLWb7qPSuYYqeSUH8dTXMBw==",
+  "deltas": [
+    {
+      "from": "0.3.3",
+      "url": "https://gh-proxy.com/https://github.com/Simqiqi/simqiqi-music/releases/download/v0.3.4/echo-cloudmusic-0.3.3-to-0.3.4-darwin-arm64.delta",
+      "size": 944678,
+      "signature": "fPbiXEM41wOiX90L17H6WkkUR/ifX/RZb8sVX8Xw/CzGx1YT5cGT1XwTRr1du/d0rYdoP+qYRezsip3rsTPFCA=="
+    }
+  ],
+  "previous": [
+    {
+      "version": "0.3.3",
+      "url": "https://gh-proxy.com/https://github.com/Simqiqi/simqiqi-music/releases/download/v0.3.3/echo-cloudmusic-0.3.3-darwin-arm64.tar.gz",
+      "size": 8726363,
+      "signature": "ZPMXXTWbo01j1p181wWiYY3iTjIOXDDznSN8vdEpwIXGBiwtJGDSdWjbvOg2lwi8OLRmRng//GL6qz0tyJ2eBw=="
+    }
+  ]
+}
